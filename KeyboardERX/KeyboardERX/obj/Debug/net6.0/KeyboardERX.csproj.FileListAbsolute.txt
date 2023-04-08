@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\bin\Debug\net6.0\KeyboardERX.exe
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\bin\Debug\net6.0\KeyboardERX.deps.json
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\bin\Debug\net6.0\KeyboardERX.runtimeconfig.json
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\bin\Debug\net6.0\KeyboardERX.dll
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\bin\Debug\net6.0\KeyboardERX.pdb
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.AssemblyInfo.cs
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.dll
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\refint\KeyboardERX.dll
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.pdb
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\KeyboardERX.genruntimeconfig.cache
+C:\Users\admin\Desktop\KeyboardERX\KeyboardERX\obj\Debug\net6.0\ref\KeyboardERX.dll
